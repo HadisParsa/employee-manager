@@ -1,6 +1,6 @@
-# 12 SQL: Employee Tracker
+# <Employee-Tracker>
 
-## Your Task
+## Employee Tracker
 
 Employee Tracker is a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 Tis is a interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. 
@@ -39,7 +39,7 @@ SO THAT I can organize and plan my business
 
 The following video shows an example of the application being used from the command line:
 
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.] ]( )
+[A video shows the command-line employee management application with a play button overlaying the view. ]( )
 
 ## Built with
 
@@ -53,7 +53,7 @@ The following video shows an example of the application being used from the comm
 
  The database schema designed as shown in the following image:
 
-![Database schema includes tables labeled “employee,” role,” and “department.”](./Assets/12-sql-homework-demo-01.png)
+![Database schema includes tables labeled “employee,” role,” and “department.”](./Assets/ScreenShot.jpg)
 
 As the image illustrates,schema is contain the following three tables:
 
